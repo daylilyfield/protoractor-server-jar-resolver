@@ -1,6 +1,6 @@
 {
   "name": "protractor-server-jar-resolver",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "selenium jar file location resolver for protractor",
   "main": "lib/index.js",
   "scripts": {
