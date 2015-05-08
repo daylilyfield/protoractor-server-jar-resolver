@@ -7,7 +7,7 @@ How to Install
 --------------
 
 ```bash
-npm install -D protoractor-server-jar-resolver
+npm install -D protractor-server-jar-resolver
 ```
 
 How to Use
